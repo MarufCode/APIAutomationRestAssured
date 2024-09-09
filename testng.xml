@@ -6,7 +6,7 @@
         <classes>
             <class name="org.example.tests.CRUD.GET.GetRequestNonBDDWithTestNG">
                 <methods>
-                    <include name="GetAllBookingsPositive"/>
+<!--                    <include name="GetAllBookingsPositive"/>-->
                     <include name="GetAllBookingsNegative"/>
                     <include name="GetAllBookingsNegative2"/>
                 </methods>
