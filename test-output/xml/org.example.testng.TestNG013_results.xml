@@ -12,61 +12,61 @@
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.004"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.000"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
             <testcase
                 name="loginTest"
                 time="0.001"
-                classname="org.example.testng.TestNG013">
+                classname="org.example.testng.testngexamples.TestNG013">
             </testcase>
 </testsuite>

@@ -1,4 +1,4 @@
-package org.example.testng;
+package org.example.testng.testngexamples;
 
 public class TestNGNotes {
 

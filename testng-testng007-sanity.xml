@@ -11,8 +11,8 @@
             </run>
         </groups>
         <classes>
-            <class name="org.example.testng.TestNG007"></class>
-            <class name="org.example.testng.TestNG005"></class>
+            <class name="org.example.testng.testngexamples.TestNG007"></class>
+            <class name="org.example.testng.testngexamples.TestNG005"></class>
 
         </classes>
     </test>

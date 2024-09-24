@@ -12,21 +12,21 @@
             <testcase
                 name="TC1"
                 time="0.000"
-                classname="org.example.testng.TestNG006">
+                classname="org.example.testng.testngexamples.TestNG006">
             </testcase>
             <testcase
                 name="TC3"
                 time="0.000"
-                classname="org.example.testng.TestNG006">
+                classname="org.example.testng.testngexamples.TestNG006">
             </testcase>
             <testcase
                 name="TC2"
                 time="0.000"
-                classname="org.example.testng.TestNG006">
+                classname="org.example.testng.testngexamples.TestNG006">
             </testcase>
             <testcase
                 name="TC4"
                 time="0.004"
-                classname="org.example.testng.TestNG006">
+                classname="org.example.testng.testngexamples.TestNG006">
             </testcase>
 </testsuite>

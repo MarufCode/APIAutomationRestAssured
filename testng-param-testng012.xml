@@ -5,7 +5,7 @@
           name="APIAutomationRestAssured">
     <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="org.example.testng.TestNG012">
+            <class name="org.example.testng.testngexamples.TestNG012">
 
             </class>
         </classes>

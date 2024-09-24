@@ -12,11 +12,11 @@
             <testcase
                 name="demo1"
                 time="0.002"
-                classname="org.example.testng.Test001">
+                classname="org.example.testng.testngexamples.Test001">
             </testcase>
             <testcase
                 name="demo5"
                 time="0.000"
-                classname="org.example.testng.Test001">
+                classname="org.example.testng.testngexamples.Test001">
             </testcase>
 </testsuite>

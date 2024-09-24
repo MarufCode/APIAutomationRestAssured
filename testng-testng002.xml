@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true"
           name="C:/Users/Maruf.sherikar.EXT.SVKMGRP/IdeaProjects/APIAutomationRestAssured">
         <classes>
-            <class name="org.example.testng.Test002">
+            <class name="org.example.testng.testngexamples.Test002">
 
             </class>
         </classes>
