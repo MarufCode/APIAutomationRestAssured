@@ -3,6 +3,7 @@ package org.example.testng.DDT;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
+import org.testng.annotations.Test;
 
 public class ddt01 {
     // Test Data - From the Excel File
@@ -26,6 +27,16 @@ public class ddt01 {
 
 
 
+    @Test(dataProvider = "getData", dataProviderClass = UtilExcel.class)
+
+    public void testLogin(String username, String password){
+        System.out.println(username);
+        System.out.println(password);
+    }
+
+    // Login to app API
+    // Write the code to Login POST Request
+    //
 
 
 }
