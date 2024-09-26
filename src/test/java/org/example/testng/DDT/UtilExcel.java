@@ -25,7 +25,7 @@ public class UtilExcel {
     static Sheet sheet;
 
 
-    public static String FILE_NAME = "src/test/resources/TestData.xlsx";
+    public static String FILE_NAME = "src/test/resources/TestData (2).xlsx";
 
     public static Object[][] getTestData(String sheetName) throws IOException {
         // Write the logic to read the excel file and convert this to array
@@ -43,8 +43,6 @@ public class UtilExcel {
             }
 
         }
-
-
 
         return data;
     }

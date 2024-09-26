@@ -29,9 +29,11 @@ public class ddt01 {
 
     @Test(dataProvider = "getData", dataProviderClass = UtilExcel.class)
 
-    public void testLogin(String username, String password){
-        System.out.println(username);
-        System.out.println(password);
+    public void testLogin(String username, String password, String ER, String AR){
+        System.out.println("username" + " " + username);
+        System.out.println("password" + " " + password);
+        System.out.println("ER" +" " + ER);
+        System.out.println("AR" + " " + AR);
     }
 
     // Login to app API
